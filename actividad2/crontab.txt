@@ -1,0 +1,1 @@
+*/5 * * * * /home/jlix/actividad2.sh
