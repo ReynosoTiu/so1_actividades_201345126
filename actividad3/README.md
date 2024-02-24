@@ -1,5 +1,5 @@
 # ACTIVIDAD 3
-## 1. Se crea el scrip llamado script.sh
+## 1. Se crea el scrip .sh
 ### Aqui creamos un while e imprimimos un mensaje y la fecha actual con una pausa de 1 segundo.
 ```bash
 #!/bin/bash
